@@ -1,0 +1,8 @@
+D:\Praca inzynierska\SerwisPlus\Frm_Klienci.Tests\obj\Debug\net5.0\Frm_Klienci.Tests.csprojAssemblyReference.cache
+D:\Praca inzynierska\SerwisPlus\Frm_Klienci.Tests\obj\Debug\net5.0\Frm_Klienci.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praca inzynierska\SerwisPlus\Frm_Klienci.Tests\obj\Debug\net5.0\Frm_Klienci.Tests.AssemblyInfoInputs.cache
+D:\Praca inzynierska\SerwisPlus\Frm_Klienci.Tests\obj\Debug\net5.0\Frm_Klienci.Tests.AssemblyInfo.cs
+D:\Praca inzynierska\SerwisPlus\Frm_Klienci.Tests\obj\Debug\net5.0\Frm_Klienci.Tests.csproj.CoreCompileInputs.cache
+D:\Praca inzynierska\SerwisPlus\Frm_Klienci.Tests\obj\Debug\net5.0\Interop.Accessibility.dll
+D:\Praca inzynierska\SerwisPlus\Frm_Klienci.Tests\obj\Debug\net5.0\Frm_Klienci.Tests.csproj.ResolveComReference.cache
+D:\Praca inzynierska\SerwisPlus\Frm_Klienci.Tests\obj\Debug\net5.0\Interop.AccessibilityCplAdminLib.dll
